@@ -32,17 +32,17 @@ stored in database.
 
   - Descriptions: Members can login into their existing account, or sign up an account before login.
 
-  ![image-20210615080444015](C:\Users\user\Desktop\SportifySportShoeWebsite\img\image-20210615080444015.png)
+  ![image-20210615080444015](.\img\image-20210615080444015.png)
 
 - **Blog Page**
 
   - Description: When users enter a blog page, they can view all the blogs provided. If members find any interested blog, they can view the blog content by clicking on the blog title or the blog’s picture. They can also add new blog content if they have any idea by clicking on the add button on the left side of the page.
-  - ![image-20210615080954288](C:\Users\user\Desktop\SportifySportShoeWebsite\img\image-20210615080954288.png)
+  - ![image-20210615080954288](.\img\image-20210615080954288.png)
 
 - **Blog content page**
 
     - Description: When a member comes to the blog content, the member can view the introduction, main content, and conclusion of the blog post.
-    - ![image-20210615081144419](C:\Users\user\Desktop\SportifySportShoeWebsite\img\image-20210615081144419.png)
+    - ![image-20210615081144419](.\img\image-20210615081144419.png)
     - 
 
   
