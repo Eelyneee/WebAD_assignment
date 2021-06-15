@@ -32,17 +32,17 @@ stored in database.
 
   - Descriptions: Members can login into their existing account, or sign up an account before login.
 
-  ![image-20210615080444015](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20210615080444015.png)
+  ![image-20210615080444015](C:\Users\user\Desktop\SportifySportShoeWebsite\img\image-20210615080444015.png)
 
 - **Blog Page**
 
   - Description: When users enter a blog page, they can view all the blogs provided. If members find any interested blog, they can view the blog content by clicking on the blog title or the blog’s picture. They can also add new blog content if they have any idea by clicking on the add button on the left side of the page.
-  - ![image-20210615080954288](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20210615080954288.png)
+  - ![image-20210615080954288](C:\Users\user\Desktop\SportifySportShoeWebsite\img\image-20210615080954288.png)
 
 - **Blog content page**
 
     - Description: When a member comes to the blog content, the member can view the introduction, main content, and conclusion of the blog post.
-    - ![image-20210615081144419](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20210615081144419.png)
+    - ![image-20210615081144419](C:\Users\user\Desktop\SportifySportShoeWebsite\img\image-20210615081144419.png)
     - 
 
   
@@ -52,27 +52,27 @@ stored in database.
 - **Sign Up Account Page**
 
   - Description: Members can sign up an account as a new member for free. After signup as members, users will be redirected to the Login page and continue login into the website to purchase shoes.
-  - ![image-20210615080558442](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20210615080558442.png)
+  - ![image-20210615080558442](C:\Users\user\Desktop\SportifySportShoeWebsite\img\image-20210615080558442.png)
 - **Home Page**
 
   - Description: After members have logged into the website using their account, they will be directed to the home page(as shown in the picture above). Users can also use the search filter that is located on the left to view a list of shoes based on their favorite. 
-  - ![image-20210615080644831](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20210615080644831.png)
+  - ![image-20210615080644831](C:\Users\user\Desktop\SportifySportShoeWebsite\img\image-20210615080644831.png)
 - **Shoe Details Page**
 
   - Description: After the member clicks into the selected shoe, the member will be directed to this shoe details page to view the details, rating and reviews of the shoes. If a member was interested in this shoe and willing to purchase it. The member can first choose the size he/she wants, then choose how many quantities they would like to have. After that, they can either click on the “Add to Cart” button and continue shopping or click on the “Buy” button and direct them to the cart page. 
-  - ![image-20210615080710520](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20210615080710520.png)
+  - ![image-20210615080710520](C:\Users\user\Desktop\SportifySportShoeWebsite\img\image-20210615080710520.png)
   - After the member clicks on the “Add to Cart” button, the system will prompt the message shown in the picture below.
-  - ![image-20210615080715387](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20210615080715387.png)
+  - ![image-20210615080715387](C:\Users\user\Desktop\SportifySportShoeWebsite\img\image-20210615080715387.png)
 - **Shop Page**
 
   - Description: The picture above shows the shop page. This page will show the user what kind of shoes that they have added into the cart. Members can decide the specific size and quantity of the shoe or remove the shoe from the cart.
-  - ![image-20210615080757993](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20210615080757993.png)
+  - ![image-20210615080757993](C:\Users\user\Desktop\SportifySportShoeWebsite\img\image-20210615080757993.png)
   - Description: After clicking on the “Confirm” button, a total payment price will be displayed below of the shopping cart. It requires the user to fill in the recipient name, recipient phone number and recipient address. 
-  - ![image-20210615080811527](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20210615080811527.png)
+  - ![image-20210615080811527](C:\Users\user\Desktop\SportifySportShoeWebsite\img\image-20210615080811527.png)
   - Description: After clicking the “Checkout” button, the system will prompt out a message that is shown in the picture above.
-  - ![image-20210615080826163](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20210615080826163.png)
+  - ![image-20210615080826163](C:\Users\user\Desktop\SportifySportShoeWebsite\img\image-20210615080826163.png)
   - Description: The system will load back to the shopping cart page with empty items.
-  - ![image-20210615080832685](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20210615080832685.png)
+  - ![image-20210615080832685](C:\Users\user\Desktop\SportifySportShoeWebsite\img\image-20210615080832685.png)
 - **FAQ Page**
   - Description: Members can also find and view some frequently asked questions provided by the website. 
   - ![image-20210615081240318](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20210615081240318.png)
